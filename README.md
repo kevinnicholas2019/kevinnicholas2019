@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @kevinnicholas2019
-- 👀 I’m interested in IOS Development (Swift)
-- 🌱 I’m currently learning Swift, SwiftUI
-- 💞️ I’m looking to collaborate on IOS Dev
+- 👋 Hi, I’m @kevinnicholas2019\
 - 📫 How to reach me Whatsapp (0856-9516-3031)
 
 <!---
