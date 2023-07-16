@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevinnicholas2019\
+- 👋 Hi, I’m @kevinnicholas2019
 - 📫 How to reach me Whatsapp (0856-9516-3031)
 
 <!---
